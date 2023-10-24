@@ -27,5 +27,5 @@
 
 
 
-[x] Taken
-[] Not Taken
+<ul><li>[x] Completed</li></ul>
+<ul><li>[ ] Not Completed</li></ul>
