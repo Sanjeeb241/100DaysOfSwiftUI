@@ -1,28 +1,31 @@
 # 100DaysOfSwiftUI
 100 Days of Swift UI by Paul Haudson
 
-| Day 1      | Day 2      | Day 3      | Day 4      | Day 5      |
-|------------|------------|------------|------------|------------|
-| [x] Day 1  | [x] Day 2  | [x] Day 3  | [x] Day 4  | [x] Day 5  |
-| [x] Day 6  | [x] Day 7  | [x] Day 8  | [x] Day 9  | [x] Day 10 |
-| [x] Day 11 | [x] Day 12 | [x] Day 13 | [x] Day 14 | [x] Day 15 |
-| [x] Day 16 | [x] Day 17 | [x] Day 18 | [x] Day 19 | [x] Day 20 |
-| [x] Day 21 | [x] Day 22 | [x] Day 23 | [x] Day 24 | [x] Day 25 |
-| [x] Day 26 | [x] Day 27 | [x] Day 28 | [x] Day 29 | [x] Day 30 |
-| [x] Day 31 | [x] Day 32 | [x] Day 33 | [x] Day 34 | [x] Day 35 |
-| [x] Day 36 | [x] Day 37 | [x] Day 38 | [x] Day 39 | [x] Day 40 |
-| [x] Day 41 | [x] Day 42 | [x] Day 43 | [x] Day 44 | [x] Day 45 |
-| [x] Day 46 | [x] Day 47 | [x] Day 48 | [x] Day 49 | [x] Day 50 |
-| [x] Day 51 | [x] Day 52 | [x] Day 53 | [x] Day 54 | [x] Day 55 |
-| [x] Day 56 | [x] Day 57 | [x] Day 58 | [x] Day 59 | [x] Day 60 |
-| [x] Day 61 | [x] Day 62 | [x] Day 63 | [x] Day 64 | [x] Day 65 |
-| [x] Day 66 | [x] Day 67 | [x] Day 68 | [x] Day 69 | [x] Day 70 |
-| [x] Day 71 | [x] Day 72 | [x] Day 73 | [x] Day 74 | [x] Day 75 |
-| [x] Day 76 | [x] Day 77 | [x] Day 78 | [x] Day 79 | [x] Day 80 |
-| [x] Day 81 | [x] Day 82 | [x] Day 83 | [x] Day 84 | [x] Day 85 |
-| [x] Day 86 | [x] Day 87 | [x] Day 88 | [x] Day 89 | [x] Day 90 |
-| [x] Day 91 | [x] Day 92 | [x] Day 93 | [x] Day 94 | [x] Day 95 |
-| [x] Day 96 | [x] Day 97 | [x] Day 98 | [x] Day 99 | [x] Day 100|
+| Day 1 - 20                     | Day 21 - 40                    | Day 41 - 60                    | Day 61 - 80                    | Day 81 - 100                   |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| <ul><li>[x] Day 1</li></ul>   | <ul><li>[x] Day 21</li></ul>  | <ul><li>[x] Day 41</li></ul>  | <ul><li>[ ] Day 61</li></ul>  | <ul><li>[ ] Day 81</li></ul>  |
+| <ul><li>[x] Day 2</li></ul>   | <ul><li>[x] Day 22</li></ul>  | <ul><li>[x] Day 42</li></ul>  | <ul><li>[ ] Day 62</li></ul>  | <ul><li>[ ] Day 82</li></ul>  |
+| <ul><li>[x] Day 3</li></ul>   | <ul><li>[x] Day 23</li></ul>  | <ul><li>[x] Day 43</li></ul>  | <ul><li>[ ] Day 63</li></ul>  | <ul><li>[ ] Day 83</li></ul>  |
+| <ul><li>[x] Day 4</li></ul>   | <ul><li>[x] Day 24</li></ul>  | <ul><li>[x] Day 44</li></ul>  | <ul><li>[ ] Day 64</li></ul>  | <ul><li>[ ] Day 84</li></ul>  |
+| <ul><li>[x] Day 5</li></ul>   | <ul><li>[x] Day 25</li></ul>  | <ul><li>[x] Day 45</li></ul>  | <ul><li>[ ] Day 65</li></ul>  | <ul><li>[ ] Day 85</li></ul>  |
+| <ul><li>[x] Day 6</li></ul>   | <ul><li>[x] Day 26</li></ul>  | <ul><li>[x] Day 46</li></ul>  | <ul><li>[ ] Day 66</li></ul>  | <ul><li>[ ] Day 86</li></ul>  |
+| <ul><li>[x] Day 7</li></ul>   | <ul><li>[x] Day 27</li></ul>  | <ul><li>[x] Day 47</li></ul>  | <ul><li>[ ] Day 67</li></ul>  | <ul><li>[ ] Day 87</li></ul>  |
+| <ul><li>[x] Day 8</li></ul>   | <ul><li>[x] Day 28</li></ul>  | <ul><li>[x] Day 48</li></ul>  | <ul><li>[ ] Day 68</li></ul>  | <ul><li>[ ] Day 88</li></ul>  |
+| <ul><li>[x] Day 9</li></ul>   | <ul><li>[x] Day 29</li></ul>  | <ul><li>[x] Day 49</li></ul>  | <ul><li>[ ] Day 69</li></ul>  | <ul><li>[ ] Day 89</li></ul>  |
+| <ul><li>[x] Day 10</li></ul>  | <ul><li>[x] Day 30</li></ul>  | <ul><li>[x] Day 50</li></ul>  | <ul><li>[ ] Day 70</li></ul>  | <ul><li>[ ] Day 90</li></ul>  |
+| <ul><li>[x] Day 11</li></ul>  | <ul><li>[x] Day 31</li></ul>  | <ul><li>[x] Day 51</li></ul>  | <ul><li>[ ] Day 71</li></ul>  | <ul><li>[ ] Day 91</li></ul>  |
+| <ul><li>[x] Day 12</li></ul>  | <ul><li>[x] Day 32</li></ul>  | <ul><li>[x] Day 52</li></ul>  | <ul><li>[ ] Day 72</li></ul>  | <ul><li>[ ] Day 92</li></ul>  |
+| <ul><li>[x] Day 13</li></ul>  | <ul><li>[x] Day 33</li></ul>  | <ul><li>[x] Day 53</li></ul>  | <ul><li>[ ] Day 73</li></ul>  | <ul><li>[ ] Day 93</li></ul>  |
+| <ul><li>[x] Day 14</li></ul>  | <ul><li>[x] Day 34</li></ul>  | <ul><li>[x] Day 54</li></ul>  | <ul><li>[ ] Day 74</li></ul>  | <ul><li>[ ] Day 94</li></ul>  |
+| <ul><li>[x] Day 15</li></ul>  | <ul><li>[x] Day 35</li></ul>  | <ul><li>[x] Day 55</li></ul>  | <ul><li>[ ] Day 75</li></ul>  | <ul><li>[ ] Day 95</li></ul>  |
+| <ul><li>[x] Day 16</li></ul>  | <ul><li>[ ] Day 36</li></ul>  | <ul><li>[ ] Day 56</li></ul>  | <ul><li>[ ] Day 76</li></ul>  | <ul><li>[ ] Day 96</li></ul>  |
+| <ul><li>[x] Day 17</li></ul>  | <ul><li>[ ] Day 37</li></ul>  | <ul><li>[ ] Day 57</li></ul>  | <ul><li>[ ] Day 77</li></ul>  | <ul><li>[ ] Day 97</li></ul>  |
+| <ul><li>[x] Day 18</li></ul>  | <ul><li>[ ] Day 38</li></ul>  | <ul><li>[ ] Day 58</li></ul>  | <ul><li>[ ] Day 78</li></ul>  | <ul><li>[ ] Day 98</li></ul>  |
+| <ul><li>[x] Day 19</li></ul>  | <ul><li>[ ] Day 39</li></ul>  | <ul><li>[ ] Day 59</li></ul>  | <ul><li>[ ] Day 79</li></ul>  | <ul><li>[ ] Day 99</li></ul>  |
+| <ul><li>[x] Day 20</li></ul>  | <ul><li>[ ] Day 40</li></ul>  | <ul><li>[ ] Day 60</li></ul>  | <ul><li>[ ] Day 80</li></ul>  | <ul><li>[ ] Day 100</li></ul> |
+
+
+
 
 [x] Taken
 [] Not Taken
