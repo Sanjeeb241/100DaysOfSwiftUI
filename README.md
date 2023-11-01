@@ -1,8 +1,7 @@
 # 100DaysOfSwiftUI
 100 Days of Swift UI by Paul Haudson
 
-
-36. Day 36 || iExpense Tracker
+## 36. Day 36 || iExpense Tracker
 
 > Use ```@AppStorage``` for storing small data instead of using ```UserDefaults```.
 
@@ -10,7 +9,7 @@
 
 Here ```"dayCount"``` is the key for storing dayCount in ```@AppStorage```.
 
-
+## 37. Day 37 ||
 
 
 | Day 1 - 20                     | Day 21 - 40                    | Day 41 - 60                    | Day 61 - 80                    | Day 81 - 100                   |
