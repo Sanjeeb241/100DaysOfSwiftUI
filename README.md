@@ -1,6 +1,18 @@
 # 100DaysOfSwiftUI
 100 Days of Swift UI by Paul Haudson
 
+
+36. Day 36 || iExpense Tracker
+
+> Use ```@AppStorage``` for storing small data instead of using ```UserDefaults```.
+
+```@AppStorage("dayCount") var dayCount : Int.```
+
+Here ```"dayCount"``` is the key for storing dayCount in ```@AppStorage```.
+
+
+
+
 | Day 1 - 20                     | Day 21 - 40                    | Day 41 - 60                    | Day 61 - 80                    | Day 81 - 100                   |
 |-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 | <ul><li>[x] Day 1</li></ul>   | <ul><li>[x] Day 21</li></ul>  | <ul><li>[ ] Day 41</li></ul>  | <ul><li>[ ] Day 61</li></ul>  | <ul><li>[ ] Day 81</li></ul>  |
@@ -18,7 +30,7 @@
 | <ul><li>[x] Day 13</li></ul>  | <ul><li>[x] Day 33</li></ul>  | <ul><li>[ ] Day 53</li></ul>  | <ul><li>[ ] Day 73</li></ul>  | <ul><li>[ ] Day 93</li></ul>  |
 | <ul><li>[x] Day 14</li></ul>  | <ul><li>[x] Day 34</li></ul>  | <ul><li>[ ] Day 54</li></ul>  | <ul><li>[ ] Day 74</li></ul>  | <ul><li>[ ] Day 94</li></ul>  |
 | <ul><li>[x] Day 15</li></ul>  | <ul><li>[x] Day 35</li></ul>  | <ul><li>[ ] Day 55</li></ul>  | <ul><li>[ ] Day 75</li></ul>  | <ul><li>[ ] Day 95</li></ul>  |
-| <ul><li>[x] Day 16</li></ul>  | <ul><li>[ ] Day 36</li></ul>  | <ul><li>[ ] Day 56</li></ul>  | <ul><li>[ ] Day 76</li></ul>  | <ul><li>[ ] Day 96</li></ul>  |
+| <ul><li>[x] Day 16</li></ul>  | <ul><li>[x] Day 36</li></ul>  | <ul><li>[ ] Day 56</li></ul>  | <ul><li>[ ] Day 76</li></ul>  | <ul><li>[ ] Day 96</li></ul>  |
 | <ul><li>[x] Day 17</li></ul>  | <ul><li>[ ] Day 37</li></ul>  | <ul><li>[ ] Day 57</li></ul>  | <ul><li>[ ] Day 77</li></ul>  | <ul><li>[ ] Day 97</li></ul>  |
 | <ul><li>[x] Day 18</li></ul>  | <ul><li>[ ] Day 38</li></ul>  | <ul><li>[ ] Day 58</li></ul>  | <ul><li>[ ] Day 78</li></ul>  | <ul><li>[ ] Day 98</li></ul>  |
 | <ul><li>[x] Day 19</li></ul>  | <ul><li>[ ] Day 39</li></ul>  | <ul><li>[ ] Day 59</li></ul>  | <ul><li>[ ] Day 79</li></ul>  | <ul><li>[ ] Day 99</li></ul>  |
