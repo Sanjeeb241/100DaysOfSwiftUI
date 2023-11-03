@@ -37,7 +37,7 @@ Here ```"dayCount"``` is the key for storing dayCount in ```@AppStorage```.
 | <ul><li>[x] Day 14</li></ul>  | <ul><li>[x] Day 34</li></ul>  | <ul><li>[ ] Day 54</li></ul>  | <ul><li>[ ] Day 74</li></ul>  | <ul><li>[ ] Day 94</li></ul>  |
 | <ul><li>[x] Day 15</li></ul>  | <ul><li>[x] Day 35</li></ul>  | <ul><li>[ ] Day 55</li></ul>  | <ul><li>[ ] Day 75</li></ul>  | <ul><li>[ ] Day 95</li></ul>  |
 | <ul><li>[x] Day 16</li></ul>  | <ul><li>[x] Day 36</li></ul>  | <ul><li>[ ] Day 56</li></ul>  | <ul><li>[ ] Day 76</li></ul>  | <ul><li>[ ] Day 96</li></ul>  |
-| <ul><li>[x] Day 17</li></ul>  | <ul><li>[ ] Day 37</li></ul>  | <ul><li>[ ] Day 57</li></ul>  | <ul><li>[ ] Day 77</li></ul>  | <ul><li>[ ] Day 97</li></ul>  |
+| <ul><li>[x] Day 17</li></ul>  | <ul><li>[x] Day 37</li></ul>  | <ul><li>[ ] Day 57</li></ul>  | <ul><li>[ ] Day 77</li></ul>  | <ul><li>[ ] Day 97</li></ul>  |
 | <ul><li>[x] Day 18</li></ul>  | <ul><li>[ ] Day 38</li></ul>  | <ul><li>[ ] Day 58</li></ul>  | <ul><li>[ ] Day 78</li></ul>  | <ul><li>[ ] Day 98</li></ul>  |
 | <ul><li>[x] Day 19</li></ul>  | <ul><li>[ ] Day 39</li></ul>  | <ul><li>[ ] Day 59</li></ul>  | <ul><li>[ ] Day 79</li></ul>  | <ul><li>[ ] Day 99</li></ul>  |
 | <ul><li>[x] Day 20</li></ul>  | <ul><li>[ ] Day 40</li></ul>  | <ul><li>[ ] Day 60</li></ul>  | <ul><li>[ ] Day 80</li></ul>  | <ul><li>[ ] Day 100</li></ul> |
