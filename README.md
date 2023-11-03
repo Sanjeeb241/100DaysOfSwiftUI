@@ -9,7 +9,14 @@
 
 Here ```"dayCount"``` is the key for storing dayCount in ```@AppStorage```.
 
-## 37. Day 37 ||
+## 37. Day 37 || iExpense Tracker
+
+> More on ```JSONEncoder``` and ```JSONDecoder```.
+> Make Class as observable for changes by using ```@Observable```
+
+```@Observable class ToDoItems  { } ```
+
+## 38. Day 38 ||
 
 
 | Day 1 - 20                     | Day 21 - 40                    | Day 41 - 60                    | Day 61 - 80                    | Day 81 - 100                   |
